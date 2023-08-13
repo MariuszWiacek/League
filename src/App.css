@@ -5,14 +5,12 @@
 }
 .navbar {
   margin-bottom: 50px;
-  background-color: rgb(255, 217, 0);
-  text-align: center;
 }
 .footer {
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #0080ff;
+  background-color: #f8f9fa;
   padding: 10px 0;
   text-align: center;
 }
